@@ -3,15 +3,15 @@ This repository contains my lab works for the university course **Intelligent An
 Each lab explores different techniques in data analysis, machine learning, and visualization using Python.
 
 ## 📚 Labs Overview
-| № | Topic | Tools |
-|---|-------|-------|
-| 2 | Data preprocessing and correlation analysis | Pandas, NumPy |
-| 3 | Regression analysis | Scikit-learn, Matplotlib |
-| 4 | Classification (KNN, Decision Tree) | Scikit-learn |
-| 5 | Clustering | K-Means, Seaborn |
-| 6 | Model evaluation and metrics | Scikit-learn |
-| 7 | Data visualization | Matplotlib, Seaborn |
-| 8 | Final project | Power BI / Python |
+| № | Topic | Description | Tools |
+|---|-------|-------------|-------|
+| **2** | Data Preprocessing and Correlation Analysis | Cleaned datasets, handled missing values, analyzed correlations between features, and visualized relationships using heatmaps and scatter plots. | Python, Pandas, NumPy, Seaborn |
+| **3** | Regression Analysis | Built and evaluated linear regression models. Analyzed relationships between dependent and independent variables and visualized regression lines. | Scikit-learn, Matplotlib |
+| **4** | Classification (KNN, Decision Tree) | Implemented K-Nearest Neighbors and Decision Tree algorithms for supervised learning tasks. Compared models and visualized decision boundaries. | Scikit-learn, Matplotlib |
+| **5** | Clustering | Applied unsupervised clustering methods (K-Means and Hierarchical). Visualized clusters and evaluated intra- and inter-cluster distances. | Scikit-learn, Seaborn |
+| **6** | Model Evaluation and Metrics | Evaluated classification models using accuracy, precision, recall, F1-score, and confusion matrix. Compared model performance. | Scikit-learn, Pandas |
+| **7** | Data Visualization | Created advanced visualizations (histograms, boxplots, heatmaps, scatter matrices) to present insights and patterns from datasets. | Matplotlib, Seaborn |
+| **8** | Final Project | Combined all learned techniques: data preprocessing, modeling, and visualization for real-world analysis using Python and Power BI. | Power BI, Python (Pandas, Scikit-learn, Matplotlib) |
 
 ## 🧩 Tools
 Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn), Power BI
