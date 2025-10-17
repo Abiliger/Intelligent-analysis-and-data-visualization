@@ -12,6 +12,8 @@ Each lab explores different techniques in data analysis, machine learning, and v
 | **6** | Model Evaluation and Metrics | Evaluated classification models using accuracy, precision, recall, F1-score, and confusion matrix. Compared model performance. | Scikit-learn, Pandas |
 | **7** | Data Visualization | Created advanced visualizations (histograms, boxplots, heatmaps, scatter matrices) to present insights and patterns from datasets. | Matplotlib, Seaborn |
 | **8** | Final Project | Combined all learned techniques: data preprocessing, modeling, and visualization for real-world analysis using Python and Power BI. | Power BI, Python (Pandas, Scikit-learn, Matplotlib) |
+| **13** | Hierarchical Clustering | Implemented hierarchical clustering with various linkage methods (Ward, Complete, Average, Single). Visualized dendrograms and compared distance metrics. | SciPy, Scikit-learn |
+
 
 ## 🧩 Tools
 Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn), Power BI
